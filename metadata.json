@@ -1,0 +1,6 @@
+{
+  "name": "Olly Graphic",
+  "description": "Creative graphic design portfolio and interactive client Pay Back Card management platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
